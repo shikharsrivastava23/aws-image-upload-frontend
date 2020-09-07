@@ -1,3 +1,17 @@
+# image-upload-aws
+
+This is the frontend written in React, that consumes the Image upload API written in Spring, to save user images to an AWS S3 bucket.
+
+<img src = "https://github.com/shikharsrivastava23/image-upload-aws/blob/master/profile-picture-demo.jpg?raw=true" width=400/>
+
+## The spring boot API can be found here
+
+[Spring Boot Project](https://github.com/shikharsrivastava23/image-upload-aws)
+
+
+
+***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
